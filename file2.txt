@@ -1,0 +1,3 @@
+file2
+addedfile2
+added
